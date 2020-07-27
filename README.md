@@ -1,4 +1,4 @@
-# AES
+# Advanced Encryption Standard
 Implementation of AES algorithm in C
 
 ## To compile and run the AES program
